@@ -1,7 +1,7 @@
 def reverse_each_word(string)
   reversed = []
   split_string = [string.split(" ")]
-  reversed = [{}]
+  reversed = split_string
     
   return reversed
 end
